@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anjana-g-1048551b8/)
 [![GitHub followers](https://img.shields.io/github/followers/AnjanaGireesh?label=Follow&style=social)](https://github.com/AnjanaGireesh)
-![Visitor Count](https://profile-counter.glitch.me/AnjanaGireesh/count.svg)
+
 
 ---
 
